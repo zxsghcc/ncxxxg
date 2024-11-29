@@ -1,0 +1,779 @@
+{
+    "success": true,
+    "data": [
+        {
+            "nama_produk": "Flex S",
+            "kategori": "FLEX",
+            "produk_code": "FLEXS1",
+            "harga_panel": "2000.00",
+            "harga_bayar": 16000,
+            "deskripsi": "Menggunakan pulsa atau ewallet Rp 16.000\r\n- UNREG PAKET FLEX DULU SEBELUM ORDER AGAR TIDAK TERJADI BUG TIDAK MASUK PAKETNYA ATAU GAGAL ISI PAKET ATAUPUN PENGEMBALIAN DANA TRANSAKSI",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Flex L+ 25 GB+",
+            "kategori": "FLEX",
+            "produk_code": "FLEXSP",
+            "harga_panel": "3000.00",
+            "harga_bayar": 52000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 52.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Flex L 19GB+",
+            "kategori": "FLEX",
+            "produk_code": "FLEXL1",
+            "harga_panel": "4000.00",
+            "harga_bayar": 42000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 42000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Akrab Pengelola XXL",
+            "kategori": "AKRAB",
+            "produk_code": "AKBXXL",
+            "harga_panel": "7000.00",
+            "harga_bayar": 270000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 270.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Akrab Pengelola XL",
+            "kategori": "AKRAB",
+            "produk_code": "AKABXL",
+            "harga_panel": "6000.00",
+            "harga_bayar": 168000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 168.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Akrab Pengelola L",
+            "kategori": "AKRAB",
+            "produk_code": "AKRABL",
+            "harga_panel": "5000.00",
+            "harga_bayar": 108000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 108.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Akrab Pengelola M",
+            "kategori": "AKRAB",
+            "produk_code": "AKRABM",
+            "harga_panel": "5000.00",
+            "harga_bayar": 66000,
+            "deskripsi": "memggunakan pulsa atau ewallet Rp 66.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Akrab Pengelola S",
+            "kategori": "AKRAB",
+            "produk_code": "AKRABS",
+            "harga_panel": "5000.00",
+            "harga_bayar": 33000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 33.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Tambahan Slot Akrab",
+            "kategori": "AKRAB",
+            "produk_code": "AKSLOT",
+            "harga_panel": "500.00",
+            "harga_bayar": 20000,
+            "deskripsi": "menggunakan pulsa Rp 20.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Masa Aktif 1 Tahun",
+            "kategori": "MASA AKTIF",
+            "produk_code": "SFZVSN",
+            "harga_panel": "5000.00",
+            "harga_bayar": 1000,
+            "deskripsi": "\u3164\u3164\r\n- Masa aktif selama 1 tahun (12 bulan).\r\n- Masa aktif akan diperpanjang setiap bulan, tidak langsung dapat 1 tahun (12 bulan).\r\n- Tidak dapat diakumulasi.\r\n- Disarankan saat membeli ini, kartu tidak boleh dalam keadaan sudah masa tenggang.\r\n- Menggunakan pulsa atau ewallet Rp 1.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Xtra Combo Plus 10 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "L9SB6Z",
+            "harga_panel": "3000.00",
+            "harga_bayar": 63400,
+            "deskripsi": "\u3164\u3164\r\n- Xtra Combo Plus 10GB (Unlimited Apps Produktivitas Mirip Paket Biz untuk Inject SSH\/VPN). Bagi yang tau-tau aja.\r\n- Abaikan FUP Kuota Harian Aplikasi Produktivitas 20 GB. Tetap Unlimited walaupun sudah lewat 20GB.\r\n- Kartu jangan posisi masa tenggang saat ditembak.\r\n- Menggunakan pulsa atau e-wallet Rp 63.400",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Xtra Combo Plus 5 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "XZJW9U",
+            "harga_panel": "5000.00",
+            "harga_bayar": 28900,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 28.900",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Viu 15 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "G51WTK",
+            "harga_panel": "1000.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak Perlu Pulsa atau Ewallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Viu 22 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "MQ3UM4",
+            "harga_panel": "1000.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak Perlu Pulsa Atau Ewallet",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Youtube 22 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "SEK1BT",
+            "harga_panel": "1000.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak Perlu Pulsa Atau Ewallet",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Youtube 10 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "CFZQ72",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak Perlu Pulsa Atau Ewallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Combo Spesial 8 GB",
+            "kategori": "COMBO SPESIAL",
+            "produk_code": "HULSLK",
+            "harga_panel": "3000.00",
+            "harga_bayar": 16850,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 16.850",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Combo Spesial 14 GB",
+            "kategori": "COMBO SPESIAL",
+            "produk_code": "A61MM6",
+            "harga_panel": "3000.00",
+            "harga_bayar": 21300,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 21.300",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Combo + Unli WLG",
+            "kategori": "COMBO SPESIAL",
+            "produk_code": "DSBMYP",
+            "harga_panel": "3000.00",
+            "harga_bayar": 26000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 26.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Basic",
+            "kategori": "COMBO SPESIAL",
+            "produk_code": "FXWZ71",
+            "harga_panel": "500.00",
+            "harga_bayar": 500,
+            "deskripsi": "\u3164\u3164\r\n- Xtra Unlimited Turbo Basic untuk akses WA, LINE, dan Gojek.\r\n- Wajib gandeng Xtra Combo Spesial \/ Xtra Combo lain.\r\n- Masa Aktif 30 Hari jika digabung dengan Xtra Combo Spesial yang dapat ditembak di panel.\r\n- Sediakan Pulsa atau E-Wallet Rp 500.",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Standard",
+            "kategori": "COMBO SPESIAL",
+            "produk_code": "UHGYQO",
+            "harga_panel": "500.00",
+            "harga_bayar": 3000,
+            "deskripsi": "\u3164\u3164\r\n- Xtra Unlimited Turbo Standard untuk akses WA, LINE, Gojek dan Facebook.\r\n- Wajib gandeng Xtra Combo Spesial \/ Xtra Combo lain.\r\n- Masa Aktif 30 Hari jika digabung dengan Xtra Combo Spesial yang dapat ditembak di panel.\r\n- Sediakan Pulsa atau E-Wallet Rp 3000.",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Masa Aktif 1 Tahun (B)",
+            "kategori": "MASA AKTIF",
+            "produk_code": "6HLDVN",
+            "harga_panel": "10000.00",
+            "harga_bayar": 0,
+            "deskripsi": "tidak perlu pulsa atau ewallet",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Super",
+            "kategori": "COMBO SPESIAL",
+            "produk_code": "ARA3TE",
+            "harga_panel": "500.00",
+            "harga_bayar": 8500,
+            "deskripsi": "\u3164\u3164\r\n- Xtra Unlimited Turbo Super untuk akses WA, LINE, Gojek, Instagram dan Facebook.\r\n- Wajib gandeng Xtra Combo Spesial \/ Xtra Combo lain.\r\n- Masa Aktif 30 Hari jika digabung dengan Xtra Combo Spesial yang dapat ditembak di panel.\r\n- Sediakan Pulsa atau E-Wallet Rp 8500.",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Premium",
+            "kategori": "COMBO SPESIAL",
+            "produk_code": "RG9ZKW",
+            "harga_panel": "500.00",
+            "harga_bayar": 13500,
+            "deskripsi": "\u3164\u3164\r\n- Xtra Unlimited Turbo Premium untuk akses WA, LINE, Gojek, Instagram, Facebook dan Youtube.\r\n- Wajib gandeng Xtra Combo Spesial \/ Xtra Combo lain.\r\n- Masa Aktif 30 Hari jika digabung dengan Xtra Combo Spesial yang dapat ditembak di panel.\r\n- Sediakan Pulsa atau E-Wallet Rp 13500.",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Iflix",
+            "kategori": "UNLIMITED TURBO",
+            "produk_code": "FCXUVG",
+            "harga_panel": "500.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Netflix",
+            "kategori": "UNLIMITED TURBO",
+            "produk_code": "RINMP2",
+            "harga_panel": "500.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Tiktok",
+            "kategori": "UNLIMITED TURBO",
+            "produk_code": "6K0RCL",
+            "harga_panel": "500.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Youtube",
+            "kategori": "UNLIMITED TURBO",
+            "produk_code": "UKXWED",
+            "harga_panel": "500.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Viu",
+            "kategori": "UNLIMITED TURBO",
+            "produk_code": "LNPKGV",
+            "harga_panel": "500.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Joox",
+            "kategori": "UNLIMITED TURBO",
+            "produk_code": "JW5JIO",
+            "harga_panel": "500.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Unlimited Turbo Vidio",
+            "kategori": "UNLIMITED TURBO",
+            "produk_code": "INILDX",
+            "harga_panel": "1000.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Free Fire 4 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "YUEMK3",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "tidak perlu pulsa atau ewallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Instagram 4 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "UYW2GO",
+            "harga_panel": "200.00",
+            "harga_bayar": 0,
+            "deskripsi": "tidak perlu pulsa atau ewallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Xtra Combo Mini 7 Hari",
+            "kategori": "XTRA COMBO MINI",
+            "produk_code": "EZFRGU",
+            "harga_panel": "2000.00",
+            "harga_bayar": 9900,
+            "deskripsi": "xtra combo mini \r\nbutuh pulsa \/ ewallet 9900",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Add on TikTok 3 GB",
+            "kategori": "XTRA COMBO MINI",
+            "produk_code": "B3A8NA",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "add on xtra combo mini tiktok 3 GB",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Add on Youtube 3 GB",
+            "kategori": "XTRA COMBO MINI",
+            "produk_code": "JGJMSZ",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "add on xtra combo mini youtube 3 gb",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Add on WhatsApp 3 GB",
+            "kategori": "XTRA COMBO MINI",
+            "produk_code": "QLRIX3",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "add on xtra combo mini whatsapp 3 gb",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON XCP WhatsApp 15 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "CHIX8Y",
+            "harga_panel": "500.00",
+            "harga_bayar": 5000,
+            "deskripsi": "- Sediakan Pulsa\/E-Wallet 5000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON XCP Instagram 15 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "TI2JBD",
+            "harga_panel": "500.00",
+            "harga_bayar": 5000,
+            "deskripsi": "- Sediakan Pulsa\/E-Wallet 5000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON XCP Facebook 15 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "OOJ0CI",
+            "harga_panel": "500.00",
+            "harga_bayar": 5000,
+            "deskripsi": "- Sediakan Pulsa\/E-Wallet 5000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON XCP YouTube 15 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "JWITRQ",
+            "harga_panel": "500.00",
+            "harga_bayar": 5000,
+            "deskripsi": "- Sediakan Pulsa\/E-Wallet 5000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON XCP TikTok 15 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "H3QHAX",
+            "harga_panel": "500.00",
+            "harga_bayar": 5000,
+            "deskripsi": "- Sediakan Pulsa\/E-Wallet 5000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "REGULER 2 GB \/ 3 HARI",
+            "kategori": "REGULER HARIAN",
+            "produk_code": "QE5XLZ",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "KUOTA REGULER 2GB\r\nTIDAK BISA DITUMPUK\r\nMASA AKTIF 3 HARI",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Xtra Combo Mini 3 Hari",
+            "kategori": "XTRA COMBO MINI",
+            "produk_code": "JPBMMM",
+            "harga_panel": "1000.00",
+            "harga_bayar": 8500,
+            "deskripsi": "BUTUH PULSA\/E-Wallet 8500\r\nMASA AKTIF 3 HARI \r\nBISA GANDENG ADDON XTRA COMBO MINI",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "REGULER 1 GB \/ 1 HARI",
+            "kategori": "REGULER HARIAN",
+            "produk_code": "MHGMKE",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "REGULER 1 GB \r\nMASA AKTIF 1 HARI\r\nBISA TUMPUK SAMPAI 2 GB KALO HOKI",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "YouTube 10 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "LY72CV",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu pulsa \/ E-Wallet\r\nMasa Aktif 1 Hari",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Xtra Combo Plus 0 KB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "R1LXNI",
+            "harga_panel": "3000.00",
+            "harga_bayar": 0,
+            "deskripsi": "HARAP DIPERHARTIKAN:\r\n\r\nDIMOHON UNTUK MENYEMBUNYIKAN NAMA PAKET INI, BOCOR LAGI ANE TARIK LAGI\r\n\r\nBUAT AJA MISAL:\r\nYOUTUBE 10GB\r\nVIU 15 GB",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Xtra Kuota Utama 3 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "UECINA",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak Membutuhkan Pulsa \/ E-Wallet",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Kuota Whatsapp 100 MB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "OJMXXG",
+            "harga_panel": "0.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota WhatsApp 250 MB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "CRXNZU",
+            "harga_panel": "0.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota WhatsApp 500 MB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "2RPBFE",
+            "harga_panel": "100.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota Mobile Legends 2 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "HXMG1J",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota Vidio 2 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "NUCDJ6",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuita Vision+ 2 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "HBAOZI",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota CatchPlay 2 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "JANDRM",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota SnackVideo 1 Gb",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "LTZET9",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota Mini 1 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "LE0NSN",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota WhatsApp 1 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "K9YKNF",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota Utama 3 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "Y3JT4W",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota GrabFood & GoFood",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "6QFMQW",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota Belanja Online 1 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "E0NZKX",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota WhatsApp Ngabuburit",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "LFEFSD",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota WhatsApp Sahur",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "J0OS9G",
+            "harga_panel": "0.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota VIU 2 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "APAGHQ",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Kuota Spotify 2 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "QNMJ9G",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Kuota FreeFire 2 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "PUHABP",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Kuota Facebook 2 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "OQK9D4",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Kuota TikTok 1 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "IXGEFX",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota Tiktok 4 GB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "9FHQDM",
+            "harga_panel": "1000.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota Utama 250 MB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "VBQ6ON",
+            "harga_panel": "0.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Kuota Utama 100 MB",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "PFZ2VS",
+            "harga_panel": "0.00",
+            "harga_bayar": 0,
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "KUBER XL SATU 100 GB",
+            "kategori": "XL SATU",
+            "produk_code": "USEG5C",
+            "harga_panel": "15000.00",
+            "harga_bayar": 0,
+            "deskripsi": "- KUOTA BERSAMA XL SATU 100 GB\r\n- BISA DOR TERUS \r\n- NOMOR YANG DIISI WAJIB PENGELOLA XL SATU",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "REGULER 2.8 GB \/ 2 HARI",
+            "kategori": "REGULER HARIAN",
+            "produk_code": "5K2PKN",
+            "harga_panel": "500.00",
+            "harga_bayar": 1500,
+            "deskripsi": "- REGULER 2.8 GB\r\n- MASA AKTIF 2 HARI\r\n- SEDIAKAN PULSA \/ E-WALLET 1500",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "MASA AKTIF 6 BULAN",
+            "kategori": "MASA AKTIF",
+            "produk_code": "F2MG3K",
+            "harga_panel": "5000.00",
+            "harga_bayar": 0,
+            "deskripsi": "MASA AKTIF 6 BULAN LANGSUNG\r\nSETELAH SELESAI ISI LANGSUNG UNREG VIA DIAL PAKET GROSIRFLASH_BLOKCING",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON FLEX YOUTUBE 50 GB",
+            "kategori": "ADDON FLEX",
+            "produk_code": "NNDPJQ",
+            "harga_panel": "5000.00",
+            "harga_bayar": 0,
+            "deskripsi": "ADDON FLEX\r\nWAJIB ADA FLEX",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON FLEX TIKTOK 50 GB",
+            "kategori": "ADDON FLEX",
+            "produk_code": "7SUKRB",
+            "harga_panel": "5000.00",
+            "harga_bayar": 0,
+            "deskripsi": "WAJIB ADA FLEX",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON FLEX KUOTA MALAM 57 GB",
+            "kategori": "ADDON FLEX",
+            "produk_code": "7GOFKG",
+            "harga_panel": "5000.00",
+            "harga_bayar": 0,
+            "deskripsi": "WAJIB ADA FLEX",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON FLEX KUOTA UTAMA 25 GB",
+            "kategori": "ADDON FLEX",
+            "produk_code": "GBS5DB",
+            "harga_panel": "6000.00",
+            "harga_bayar": 0,
+            "deskripsi": "WAJIB ADA FLEX",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON FLEX YOUTUBE 30 GB",
+            "kategori": "ADDON FLEX",
+            "produk_code": "QLOCG4",
+            "harga_panel": "4000.00",
+            "harga_bayar": 0,
+            "deskripsi": "WAJIB ADA FLEX",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON FLEX TIKTOK 30 GB",
+            "kategori": "ADDON FLEX",
+            "produk_code": "SGQWIP",
+            "harga_panel": "4000.00",
+            "harga_bayar": 0,
+            "deskripsi": "WAJIB ADA FLEX",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON FLEX KUOTA MALAM 45 GB",
+            "kategori": "ADDON FLEX",
+            "produk_code": "HZCQNZ",
+            "harga_panel": "4000.00",
+            "harga_bayar": 0,
+            "deskripsi": "WAJIB ADA FLEX",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON FLEX KUOTA UTAMA 15 GB",
+            "kategori": "ADDON FLEX",
+            "produk_code": "KDWKWN",
+            "harga_panel": "4000.00",
+            "harga_bayar": 0,
+            "deskripsi": "WAJIB ADA FLEX",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "YOUTUBE 1 GB \/ 1 HARI",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "2NVBCT",
+            "harga_panel": "100.00",
+            "harga_bayar": 0,
+            "deskripsi": "YOUTUBE 1 GB\r\nMASA AKTIF 1 HARI\r\nMAX 2X TUMPUK",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "YOUTUBE 3 GB \/ 1 HARI",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "VGCISU",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "YOUTUBE 3 GB\r\nMASA AKTIF 1 HARI",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "INSTAGRAM 3 GB \/ 1 HARI",
+            "kategori": "KUOTA HARIAN",
+            "produk_code": "P8DMUJ",
+            "harga_panel": "250.00",
+            "harga_bayar": 0,
+            "deskripsi": "INSTAGRAM 3 GB\r\nMASA AKTIF 1 HARI",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "ADDON XCP WHATSAPP 4 GB",
+            "kategori": "XTRA COMBO PLUS",
+            "produk_code": "JM89NB",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "TIDAK PERLU PULSA",
+            "status": "aktif"
+        }
+    ]
+}
