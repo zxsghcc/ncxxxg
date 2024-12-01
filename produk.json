@@ -86,7 +86,7 @@
             "nama_produk": "Masa Aktif 1 Tahun",
             "kategori": "MASA AKTIF",
             "produk_code": "SFZVSN",
-            "harga_panel": "5000.00",
+            "harga_panel": "2000.00",
             "harga_bayar": 1000,
             "deskripsi": "\u3164\u3164\r\n- Masa aktif selama 1 tahun (12 bulan).\r\n- Masa aktif akan diperpanjang setiap bulan, tidak langsung dapat 1 tahun (12 bulan).\r\n- Tidak dapat diakumulasi.\r\n- Disarankan saat membeli ini, kartu tidak boleh dalam keadaan sudah masa tenggang.\r\n- Menggunakan pulsa atau ewallet Rp 1.000",
             "status": "aktif"
@@ -507,11 +507,11 @@
         },
         {
             "nama_produk": "Kuota Mini 1 GB",
-            "kategori": "KUOTA HARIAN",
+            "kategori": "REGULER HARIAN",
             "produk_code": "LE0NSN",
-            "harga_panel": "500.00",
+            "harga_panel": "250.00",
             "harga_bayar": 0,
-            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
+            "deskripsi": "Tidak perlu Pulsa \/ E-Wallet\r\nKUOTA 500 MB REG\r\nKUOTA 500 MB YT\r\nBISA TUMPUK 2X",
             "status": "aktif"
         },
         {
@@ -773,6 +773,24 @@
             "harga_panel": "500.00",
             "harga_bayar": 0,
             "deskripsi": "TIDAK PERLU PULSA",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "REGULER 1 GB\/3 HARI",
+            "kategori": "REGULER HARIAN",
+            "produk_code": "MSHRC5",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "TIDAK PERLU PULSA\/E WALLET\r\nBISA AKUMULASI\r\nSEWAJARNYA SAJA",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "REGULER 2 GB\/3 HARI",
+            "kategori": "REGULER HARIAN",
+            "produk_code": "MSURJE",
+            "harga_panel": "1000.00",
+            "harga_bayar": 0,
+            "deskripsi": "TIDAK PERLU PULSA \/ EWALLET\r\nBISA AKUMULASI\r\nSEWAJARNYA SAJA",
             "status": "aktif"
         }
     ]
