@@ -113,7 +113,7 @@
             "nama_produk": "Viu 15 GB",
             "kategori": "XTRA COMBO PLUS",
             "produk_code": "G51WTK",
-            "harga_panel": "1000.00",
+            "harga_panel": "500.00",
             "harga_bayar": 0,
             "deskripsi": "Tidak Perlu Pulsa atau Ewallet",
             "status": "aktif"
@@ -647,7 +647,7 @@
             "harga_panel": "15000.00",
             "harga_bayar": 0,
             "deskripsi": "- KUOTA BERSAMA XL SATU 100 GB\r\n- BISA DOR TERUS \r\n- NOMOR YANG DIISI WAJIB PENGELOLA XL SATU",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "REGULER 2.8 GB \/ 2 HARI",
@@ -792,6 +792,15 @@
             "harga_bayar": 0,
             "deskripsi": "TIDAK PERLU PULSA \/ EWALLET\r\nBISA AKUMULASI\r\nSEWAJARNYA SAJA",
             "status": "aktif"
+        },
+        {
+            "nama_produk": "TESTINGGG",
+            "kategori": "AKRAB",
+            "produk_code": "7NJUI4",
+            "harga_panel": "100000.00",
+            "harga_bayar": 240000,
+            "deskripsi": "TEST",
+            "status": "aktif"
         }
     ]
-}
+        }
