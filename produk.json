@@ -89,7 +89,7 @@
             "harga_panel": "2000.00",
             "harga_bayar": 1000,
             "deskripsi": "\u3164\u3164\r\n- Masa aktif selama 1 tahun (12 bulan).\r\n- Masa aktif akan diperpanjang setiap bulan, tidak langsung dapat 1 tahun (12 bulan).\r\n- Tidak dapat diakumulasi.\r\n- Disarankan saat membeli ini, kartu tidak boleh dalam keadaan sudah masa tenggang.\r\n- Menggunakan pulsa atau ewallet Rp 1.000",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Xtra Combo Plus 10 GB",
@@ -659,17 +659,17 @@
             "status": "aktif"
         },
         {
-            "nama_produk": "MASA AKTIF 6 BULAN COID ❌",
+            "nama_produk": "MASA AKTIF 6 BULAN",
             "kategori": "MASA AKTIF",
             "produk_code": "F2MG3K",
             "harga_panel": "5000.00",
             "harga_bayar": 0,
             "deskripsi": "MASA AKTIF 6 BULAN LANGSUNG\r\nSETELAH SELESAI ISI LANGSUNG UNREG VIA DIAL PAKET GROSIRFLASH_BLOKCING",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON FLEX YOUTUBE 50 GB",
-            "kategori": "ADDON FLEX COID ❌",
+            "kategori": "ADDON FLEX",
             "produk_code": "NNDPJQ",
             "harga_panel": "5000.00",
             "harga_bayar": 0,
@@ -678,7 +678,7 @@
         },
         {
             "nama_produk": "ADDON FLEX TIKTOK 50 GB",
-            "kategori": "ADDON FLEX COID ❌",
+            "kategori": "ADDON FLEX",
             "produk_code": "7SUKRB",
             "harga_panel": "5000.00",
             "harga_bayar": 0,
@@ -687,7 +687,7 @@
         },
         {
             "nama_produk": "ADDON FLEX KUOTA MALAM 57 GB",
-            "kategori": "ADDON FLEX COID ❌",
+            "kategori": "ADDON FLEX",
             "produk_code": "7GOFKG",
             "harga_panel": "5000.00",
             "harga_bayar": 0,
@@ -696,7 +696,7 @@
         },
         {
             "nama_produk": "ADDON FLEX KUOTA UTAMA 25 GB",
-            "kategori": "ADDON FLEX COID ❌",
+            "kategori": "ADDON FLEX",
             "produk_code": "GBS5DB",
             "harga_panel": "6000.00",
             "harga_bayar": 0,
@@ -705,7 +705,7 @@
         },
         {
             "nama_produk": "ADDON FLEX YOUTUBE 30 GB",
-            "kategori": "ADDON FLEX COID ❌",
+            "kategori": "ADDON FLEX",
             "produk_code": "QLOCG4",
             "harga_panel": "4000.00",
             "harga_bayar": 0,
@@ -714,7 +714,7 @@
         },
         {
             "nama_produk": "ADDON FLEX TIKTOK 30 GB",
-            "kategori": "ADDON FLEX COID ❌",
+            "kategori": "ADDON FLEX",
             "produk_code": "SGQWIP",
             "harga_panel": "4000.00",
             "harga_bayar": 0,
@@ -723,7 +723,7 @@
         },
         {
             "nama_produk": "ADDON FLEX KUOTA MALAM 45 GB",
-            "kategori": "ADDON FLEX COID ❌",
+            "kategori": "ADDON FLEX",
             "produk_code": "HZCQNZ",
             "harga_panel": "4000.00",
             "harga_bayar": 0,
@@ -732,7 +732,7 @@
         },
         {
             "nama_produk": "ADDON FLEX KUOTA UTAMA 15 GB",
-            "kategori": "ADDON FLEX COID ❌",
+            "kategori": "ADDON FLEX",
             "produk_code": "KDWKWN",
             "harga_panel": "4000.00",
             "harga_bayar": 0,
@@ -806,10 +806,10 @@
             "nama_produk": "BONUS PAKET AKRAB L",
             "kategori": "BONUS PAKET AKRAB",
             "produk_code": "D2KUPP",
-            "harga_panel": "5000.00",
+            "harga_panel": "8000.00",
             "harga_bayar": 0,
-            "deskripsi": "CARI SENDIRI DETAIL KUOTA, NNTI UPDATE",
+            "deskripsi": ".\r\n\u2022 AREA 1 = 8GB\r\n\u2022 AREA 2 = 10GB\r\n\u2022 AREA 3 = 15GB\r\n\u2022 AREA 4 = 25GB",
             "status": "aktif"
         }
     ]
-        }
+}
