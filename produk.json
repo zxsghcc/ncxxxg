@@ -659,7 +659,7 @@
             "status": "aktif"
         },
         {
-            "nama_produk": "MASA AKTIF 6 BULAN",
+            "nama_produk": "MASA AKTIF 6 BULAN COID ❌",
             "kategori": "MASA AKTIF",
             "produk_code": "F2MG3K",
             "harga_panel": "5000.00",
@@ -674,7 +674,7 @@
             "harga_panel": "5000.00",
             "harga_bayar": 0,
             "deskripsi": "ADDON FLEX\r\nWAJIB ADA FLEX",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON FLEX TIKTOK 50 GB",
@@ -683,7 +683,7 @@
             "harga_panel": "5000.00",
             "harga_bayar": 0,
             "deskripsi": "WAJIB ADA FLEX",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON FLEX KUOTA MALAM 57 GB",
@@ -692,7 +692,7 @@
             "harga_panel": "5000.00",
             "harga_bayar": 0,
             "deskripsi": "WAJIB ADA FLEX",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON FLEX KUOTA UTAMA 25 GB",
@@ -701,7 +701,7 @@
             "harga_panel": "6000.00",
             "harga_bayar": 0,
             "deskripsi": "WAJIB ADA FLEX",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON FLEX YOUTUBE 30 GB",
@@ -710,7 +710,7 @@
             "harga_panel": "4000.00",
             "harga_bayar": 0,
             "deskripsi": "WAJIB ADA FLEX",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON FLEX TIKTOK 30 GB",
@@ -719,7 +719,7 @@
             "harga_panel": "4000.00",
             "harga_bayar": 0,
             "deskripsi": "WAJIB ADA FLEX",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON FLEX KUOTA MALAM 45 GB",
@@ -728,7 +728,7 @@
             "harga_panel": "4000.00",
             "harga_bayar": 0,
             "deskripsi": "WAJIB ADA FLEX",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON FLEX KUOTA UTAMA 15 GB",
@@ -737,7 +737,7 @@
             "harga_panel": "4000.00",
             "harga_bayar": 0,
             "deskripsi": "WAJIB ADA FLEX",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "YOUTUBE 1 GB \/ 1 HARI",
@@ -800,6 +800,15 @@
             "harga_panel": "100000.00",
             "harga_bayar": 240000,
             "deskripsi": "TEST",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "BONUS PAKET AKRAB L",
+            "kategori": "BONUS PAKET AKRAB",
+            "produk_code": "D2KUPP",
+            "harga_panel": "5000.00",
+            "harga_bayar": 0,
+            "deskripsi": "CARI SENDIRI DETAIL KUOTA, NNTI UPDATE",
             "status": "aktif"
         }
     ]
