@@ -77,7 +77,7 @@
             "nama_produk": "Tambahan Slot Akrab",
             "kategori": "AKRAB",
             "produk_code": "AKSLOT",
-            "harga_panel": "500.00",
+            "harga_panel": "0.00",
             "harga_bayar": 20000,
             "deskripsi": "menggunakan pulsa Rp 20.000",
             "status": "aktif"
@@ -656,7 +656,7 @@
             "harga_panel": "500.00",
             "harga_bayar": 1500,
             "deskripsi": "- REGULER 2.8 GB\r\n- MASA AKTIF 2 HARI\r\n- SEDIAKAN PULSA \/ E-WALLET 1500",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "MASA AKTIF 6 BULAN",
@@ -779,7 +779,7 @@
             "nama_produk": "REGULER 1 GB\/3 HARI",
             "kategori": "REGULER HARIAN",
             "produk_code": "MSHRC5",
-            "harga_panel": "500.00",
+            "harga_panel": "250.00",
             "harga_bayar": 0,
             "deskripsi": "TIDAK PERLU PULSA\/E WALLET\r\nBISA AKUMULASI\r\nSEWAJARNYA SAJA",
             "status": "aktif"
@@ -788,7 +788,7 @@
             "nama_produk": "REGULER 2 GB\/3 HARI",
             "kategori": "REGULER HARIAN",
             "produk_code": "MSURJE",
-            "harga_panel": "1000.00",
+            "harga_panel": "500.00",
             "harga_bayar": 0,
             "deskripsi": "TIDAK PERLU PULSA \/ EWALLET\r\nBISA AKUMULASI\r\nSEWAJARNYA SAJA",
             "status": "aktif"
