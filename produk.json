@@ -113,10 +113,10 @@
             "nama_produk": "XCP 0 KB",
             "kategori": "XTRA COMBO PLUS",
             "produk_code": "XCPOKB",
-            "harga_panel": "3000.00",
+            "harga_panel": "5000.00",
             "harga_bayar": 0,
-            "deskripsi": "Tidak Perlu Pulsa atau Ewallet",
-            "status": "aktif"
+            "deskripsi": "Tidak Perlu Pulsa atau Ewallet\r\nTIDAK SEMUA NOMOR SUPPORT",
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Viu 22 GB",
@@ -314,7 +314,7 @@
             "harga_panel": "500.00",
             "harga_bayar": 0,
             "deskripsi": "add on xtra combo mini tiktok 3 GB",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Add on Youtube 3 GB",
@@ -323,7 +323,7 @@
             "harga_panel": "500.00",
             "harga_bayar": 0,
             "deskripsi": "add on xtra combo mini youtube 3 gb",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Add on WhatsApp 3 GB",
@@ -332,7 +332,7 @@
             "harga_panel": "500.00",
             "harga_bayar": 0,
             "deskripsi": "add on xtra combo mini whatsapp 3 gb",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON XCP WhatsApp 15 GB",
@@ -641,15 +641,6 @@
             "status": "nonaktif"
         },
         {
-            "nama_produk": "KUBER XL SATU 100 GB",
-            "kategori": "XL SATU",
-            "produk_code": "USEG5C",
-            "harga_panel": "15000.00",
-            "harga_bayar": 0,
-            "deskripsi": "- KUOTA BERSAMA XL SATU 100 GB\r\n- BISA DOR TERUS \r\n- NOMOR YANG DIISI WAJIB PENGELOLA XL SATU",
-            "status": "nonaktif"
-        },
-        {
             "nama_produk": "REGULER 2.8 GB \/ 2 HARI",
             "kategori": "REGULER HARIAN",
             "produk_code": "5K2PKN",
@@ -665,78 +656,6 @@
             "harga_panel": "5000.00",
             "harga_bayar": 0,
             "deskripsi": "MASA AKTIF 6 BULAN LANGSUNG\r\nSETELAH SELESAI ISI LANGSUNG UNREG VIA DIAL PAKET GROSIRFLASH_BLOKCING",
-            "status": "nonaktif"
-        },
-        {
-            "nama_produk": "ADDON FLEX YOUTUBE 50 GB",
-            "kategori": "ADDON FLEX",
-            "produk_code": "NNDPJQ",
-            "harga_panel": "5000.00",
-            "harga_bayar": 0,
-            "deskripsi": "ADDON FLEX\r\nWAJIB ADA FLEX",
-            "status": "nonaktif"
-        },
-        {
-            "nama_produk": "ADDON FLEX TIKTOK 50 GB",
-            "kategori": "ADDON FLEX",
-            "produk_code": "7SUKRB",
-            "harga_panel": "5000.00",
-            "harga_bayar": 0,
-            "deskripsi": "WAJIB ADA FLEX",
-            "status": "nonaktif"
-        },
-        {
-            "nama_produk": "ADDON FLEX KUOTA MALAM 57 GB",
-            "kategori": "ADDON FLEX",
-            "produk_code": "7GOFKG",
-            "harga_panel": "5000.00",
-            "harga_bayar": 0,
-            "deskripsi": "WAJIB ADA FLEX",
-            "status": "nonaktif"
-        },
-        {
-            "nama_produk": "ADDON FLEX KUOTA UTAMA 25 GB",
-            "kategori": "ADDON FLEX",
-            "produk_code": "GBS5DB",
-            "harga_panel": "6000.00",
-            "harga_bayar": 0,
-            "deskripsi": "WAJIB ADA FLEX",
-            "status": "nonaktif"
-        },
-        {
-            "nama_produk": "ADDON FLEX YOUTUBE 30 GB",
-            "kategori": "ADDON FLEX",
-            "produk_code": "QLOCG4",
-            "harga_panel": "4000.00",
-            "harga_bayar": 0,
-            "deskripsi": "WAJIB ADA FLEX",
-            "status": "nonaktif"
-        },
-        {
-            "nama_produk": "ADDON FLEX TIKTOK 30 GB",
-            "kategori": "ADDON FLEX",
-            "produk_code": "SGQWIP",
-            "harga_panel": "4000.00",
-            "harga_bayar": 0,
-            "deskripsi": "WAJIB ADA FLEX",
-            "status": "nonaktif"
-        },
-        {
-            "nama_produk": "ADDON FLEX KUOTA MALAM 45 GB",
-            "kategori": "ADDON FLEX",
-            "produk_code": "HZCQNZ",
-            "harga_panel": "4000.00",
-            "harga_bayar": 0,
-            "deskripsi": "WAJIB ADA FLEX",
-            "status": "nonaktif"
-        },
-        {
-            "nama_produk": "ADDON FLEX KUOTA UTAMA 15 GB",
-            "kategori": "ADDON FLEX",
-            "produk_code": "KDWKWN",
-            "harga_panel": "4000.00",
-            "harga_bayar": 0,
-            "deskripsi": "WAJIB ADA FLEX",
             "status": "nonaktif"
         },
         {
