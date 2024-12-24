@@ -11,19 +11,19 @@
             "status": "aktif"
         },
         {
-            "nama_produk": "Flex L+ 25 GB+",
+            "nama_produk": "Flex L+ 16 GB++",
             "kategori": "FLEX",
             "produk_code": "FLEXSP",
-            "harga_panel": "3000.00",
+            "harga_panel": "2000.00",
             "harga_bayar": 52000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 52.000",
             "status": "aktif"
         },
         {
-            "nama_produk": "Flex L 19GB+",
+            "nama_produk": "Flex L 12GB+",
             "kategori": "FLEX",
             "produk_code": "FLEXL1",
-            "harga_panel": "4000.00",
+            "harga_panel": "2000.00",
             "harga_bayar": 42000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 42000",
             "status": "aktif"
@@ -32,7 +32,7 @@
             "nama_produk": "Akrab Pengelola XXL",
             "kategori": "AKRAB",
             "produk_code": "AKBXXL",
-            "harga_panel": "7000.00",
+            "harga_panel": "10000.00",
             "harga_bayar": 270000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 270.000",
             "status": "aktif"
@@ -41,7 +41,7 @@
             "nama_produk": "Akrab Pengelola XL",
             "kategori": "AKRAB",
             "produk_code": "AKABXL",
-            "harga_panel": "6000.00",
+            "harga_panel": "10000.00",
             "harga_bayar": 168000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 168.000",
             "status": "aktif"
@@ -50,7 +50,7 @@
             "nama_produk": "Akrab Pengelola L",
             "kategori": "AKRAB",
             "produk_code": "AKRABL",
-            "harga_panel": "5000.00",
+            "harga_panel": "8000.00",
             "harga_bayar": 108000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 108.000",
             "status": "aktif"
@@ -105,8 +105,8 @@
             "kategori": "XTRA COMBO PLUS",
             "produk_code": "XZJW9U",
             "harga_panel": "5000.00",
-            "harga_bayar": 28900,
-            "deskripsi": "menggunakan pulsa atau ewallet Rp 28.900",
+            "harga_bayar": 30000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 30.000",
             "status": "aktif"
         },
         {
@@ -137,7 +137,7 @@
             "status": "nonaktif"
         },
         {
-            "nama_produk": "Youtube 8 GB",
+            "nama_produk": "Youtube 7 GB",
             "kategori": "XTRA COMBO PLUS",
             "produk_code": "CFZQ72",
             "harga_panel": "500.00",
@@ -689,19 +689,19 @@
             "nama_produk": "ADDON XCP WHATSAPP 10 GB",
             "kategori": "XTRA COMBO PLUS",
             "produk_code": "JM89NB",
-            "harga_panel": "500.00",
+            "harga_panel": "1000.00",
             "harga_bayar": 0,
             "deskripsi": "TIDAK PERLU PULSA",
             "status": "aktif"
         },
         {
-            "nama_produk": "REGULER 1 GB\/3 HARI",
+            "nama_produk": "REGULER 1 GB\/2 HARI",
             "kategori": "REGULER HARIAN",
             "produk_code": "MSHRC5",
-            "harga_panel": "250.00",
-            "harga_bayar": 0,
-            "deskripsi": "TIDAK PERLU PULSA\/E WALLET\r\nBISA AKUMULASI\r\nSEWAJARNYA SAJA",
-            "status": "nonaktif"
+            "harga_panel": "500.00",
+            "harga_bayar": 500,
+            "deskripsi": "PERLU PULSA\/WALLET 500",
+            "status": "aktif"
         },
         {
             "nama_produk": "REGULER 2 GB\/3 HARI",
@@ -717,7 +717,7 @@
             "kategori": "AKRAB",
             "produk_code": "7NJUI4",
             "harga_panel": "100000.00",
-            "harga_bayar": 240000,
+            "harga_bayar": 204000,
             "deskripsi": "TEST",
             "status": "aktif"
         },
@@ -725,28 +725,28 @@
             "nama_produk": "ADDON VIU 2 GB",
             "kategori": "XTRA COMBO PLUS",
             "produk_code": "KQOSYX",
-            "harga_panel": "100.00",
+            "harga_panel": "250.00",
             "harga_bayar": 0,
             "deskripsi": "ADDON VIU",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON VIU 5 GB",
             "kategori": "XTRA COMBO PLUS",
             "produk_code": "ZH6SAA",
-            "harga_panel": "200.00",
+            "harga_panel": "400.00",
             "harga_bayar": 0,
             "deskripsi": "ADDON VIU",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "ADDON VIU 8 GB",
             "kategori": "XTRA COMBO PLUS",
             "produk_code": "SHL0EQ",
-            "harga_panel": "250.00",
+            "harga_panel": "500.00",
             "harga_bayar": 0,
             "deskripsi": "VIU 8 GB",
-            "status": "aktif"
+            "status": "nonaktif"
         }
     ]
         }
