@@ -32,7 +32,7 @@
             "nama_produk": "Akrab Pengelola XXL",
             "kategori": "AKRAB",
             "produk_code": "AKBXXL",
-            "harga_panel": "10000.00",
+            "harga_panel": "8000.00",
             "harga_bayar": 270000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 270.000",
             "status": "aktif"
@@ -41,7 +41,7 @@
             "nama_produk": "Akrab Pengelola XL",
             "kategori": "AKRAB",
             "produk_code": "AKABXL",
-            "harga_panel": "10000.00",
+            "harga_panel": "8000.00",
             "harga_bayar": 168000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 168.000",
             "status": "aktif"
@@ -747,6 +747,24 @@
             "harga_bayar": 0,
             "deskripsi": "VIU 8 GB",
             "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Bonus Paket Akrab Reguler 1 GB",
+            "kategori": "BPA",
+            "produk_code": "DGPVEO",
+            "harga_panel": "500.00",
+            "harga_bayar": 0,
+            "deskripsi": "BISA AKUMULASI\r\nMASA AKTIF 1 BULAN\r\nTANPA PULSA DAN EWALLET",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Bonus Paket Akrab WhatsApp 5 GB",
+            "kategori": "BPA",
+            "produk_code": "E70GAU",
+            "harga_panel": "1000.00",
+            "harga_bayar": 0,
+            "deskripsi": "BISA AKUMULASI\r\nMASA AKTIF 1 BULAN\r\nTANPA PULSA DAN EWALLET",
+            "status": "aktif"
         }
     ]
         }
