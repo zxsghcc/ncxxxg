@@ -751,7 +751,7 @@
         {
             "nama_produk": "Bonus Paket Akrab Reguler 1 GB",
             "kategori": "BPA",
-            "produk_code": "DGPVEO",
+            "produk_code": "BPA1GB",
             "harga_panel": "500.00",
             "harga_bayar": 0,
             "deskripsi": "BISA AKUMULASI\r\nMASA AKTIF 1 BULAN\r\nTANPA PULSA DAN EWALLET",
@@ -760,7 +760,7 @@
         {
             "nama_produk": "Bonus Paket Akrab WhatsApp 5 GB",
             "kategori": "BPA",
-            "produk_code": "E70GAU",
+            "produk_code": "BPAWA5",
             "harga_panel": "1000.00",
             "harga_bayar": 0,
             "deskripsi": "BISA AKUMULASI\r\nMASA AKTIF 1 BULAN\r\nTANPA PULSA DAN EWALLET",
