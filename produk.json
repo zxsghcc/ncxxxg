@@ -15,8 +15,8 @@
             "kategori": "FLEX",
             "produk_code": "FLEXSP",
             "harga_panel": "2000.00",
-            "harga_bayar": 52000,
-            "deskripsi": "menggunakan pulsa atau ewallet Rp 52.000",
+            "harga_bayar": 53000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 53.000",
             "status": "aktif"
         },
         {
@@ -24,8 +24,8 @@
             "kategori": "FLEX",
             "produk_code": "FLEXL1",
             "harga_panel": "2000.00",
-            "harga_bayar": 42000,
-            "deskripsi": "menggunakan pulsa atau ewallet Rp 42000",
+            "harga_bayar": 43000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 43000",
             "status": "aktif"
         },
         {
@@ -33,18 +33,18 @@
             "kategori": "AKRAB",
             "produk_code": "AKBXXL",
             "harga_panel": "8000.00",
-            "harga_bayar": 270000,
+            "harga_bayar": 240000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 270.000",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Akrab Pengelola XL",
             "kategori": "AKRAB",
             "produk_code": "AKABXL",
-            "harga_panel": "8000.00",
+            "harga_panel": "7500.00",
             "harga_bayar": 168000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 168.000",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Akrab Pengelola L",
@@ -53,7 +53,7 @@
             "harga_panel": "8000.00",
             "harga_bayar": 108000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 108.000",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Akrab Pengelola M",
@@ -62,7 +62,7 @@
             "harga_panel": "5000.00",
             "harga_bayar": 66000,
             "deskripsi": "memggunakan pulsa atau ewallet Rp 66.000",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Akrab Pengelola S",
@@ -71,7 +71,7 @@
             "harga_panel": "5000.00",
             "harga_bayar": 33000,
             "deskripsi": "menggunakan pulsa atau ewallet Rp 33.000",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Tambahan Slot Akrab",
@@ -83,10 +83,10 @@
             "status": "aktif"
         },
         {
-            "nama_produk": "Masa Aktif 1 Tahun",
+            "nama_produk": "Masa Aktif 1 Tahun (Perlu Pulsa\/Wallet)",
             "kategori": "MASA AKTIF",
             "produk_code": "SFZVSN",
-            "harga_panel": "2000.00",
+            "harga_panel": "5000.00",
             "harga_bayar": 1000,
             "deskripsi": "\u3164\u3164\r\n- Masa aktif selama 1 tahun (12 bulan).\r\n- Masa aktif akan diperpanjang setiap bulan, tidak langsung dapat 1 tahun (12 bulan).\r\n- Tidak dapat diakumulasi.\r\n- Disarankan saat membeli ini, kartu tidak boleh dalam keadaan sudah masa tenggang.\r\n- Menggunakan pulsa atau ewallet Rp 1.000",
             "status": "nonaktif"
@@ -113,9 +113,9 @@
             "nama_produk": "XCP 0 KB",
             "kategori": "XTRA COMBO PLUS",
             "produk_code": "XCPOKB",
-            "harga_panel": "5000.00",
+            "harga_panel": "3000.00",
             "harga_bayar": 0,
-            "deskripsi": "Tidak Perlu Pulsa atau Ewallet\r\nTIDAK SEMUA NOMOR SUPPORT",
+            "deskripsi": "Tidak Perlu Pulsa atau Ewallet\r\nTIDAK SEMUA NOMOR SUPPORT\r\n\r\nkalo gagal nomor gk support",
             "status": "nonaktif"
         },
         {
@@ -143,15 +143,15 @@
             "harga_panel": "500.00",
             "harga_bayar": 0,
             "deskripsi": "Tidak Perlu Pulsa Atau Ewallet",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Combo Spesial 8 GB",
             "kategori": "COMBO SPESIAL",
             "produk_code": "HULSLK",
-            "harga_panel": "3000.00",
-            "harga_bayar": 16850,
-            "deskripsi": "menggunakan pulsa atau ewallet Rp 16.850",
+            "harga_panel": "2000.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000\n\nBUAT GANDENGAN UNLI TURBO",
             "status": "aktif"
         },
         {
@@ -159,9 +159,9 @@
             "kategori": "COMBO SPESIAL",
             "produk_code": "A61MM6",
             "harga_panel": "3000.00",
-            "harga_bayar": 21300,
-            "deskripsi": "menggunakan pulsa atau ewallet Rp 21.300",
-            "status": "aktif"
+            "harga_bayar": 39000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 39.000",
+            "status": "nonaktif"
         },
         {
             "nama_produk": "Combo + Unli WLG",
@@ -191,12 +191,12 @@
             "status": "aktif"
         },
         {
-            "nama_produk": "Masa Aktif 1 Tahun (B)",
+            "nama_produk": "Masa Aktif 1 Tahun (Tanpa Pulsa\/Wallet)",
             "kategori": "MASA AKTIF",
             "produk_code": "6HLDVN",
-            "harga_panel": "10000.00",
+            "harga_panel": "5000.00",
             "harga_bayar": 0,
-            "deskripsi": "tidak perlu pulsa atau ewallet",
+            "deskripsi": "tidak perlu pulsa atau ewallet\r\nKeterangan:\r\nWhatsapp 2.75 GB\r\nKuota Utama 1 GB",
             "status": "nonaktif"
         },
         {
@@ -267,8 +267,8 @@
             "kategori": "UNLIMITED TURBO",
             "produk_code": "JW5JIO",
             "harga_panel": "500.00",
-            "harga_bayar": 25000,
-            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000",
+            "harga_bayar": 10000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 10.000",
             "status": "aktif"
         },
         {
@@ -293,7 +293,7 @@
             "nama_produk": "Instagram 4 GB",
             "kategori": "KUOTA HARIAN",
             "produk_code": "UYW2GO",
-            "harga_panel": "200.00",
+            "harga_panel": "0.00",
             "harga_bayar": 0,
             "deskripsi": "tidak perlu pulsa atau ewallet",
             "status": "nonaktif"
@@ -303,8 +303,8 @@
             "kategori": "XTRA COMBO MINI",
             "produk_code": "EZFRGU",
             "harga_panel": "2000.00",
-            "harga_bayar": 9900,
-            "deskripsi": "xtra combo mini \r\nbutuh pulsa \/ ewallet 9900",
+            "harga_bayar": 10300,
+            "deskripsi": "xtra combo mini \r\nbutuh pulsa \/ ewallet 10300",
             "status": "aktif"
         },
         {
@@ -393,8 +393,8 @@
             "kategori": "XTRA COMBO MINI",
             "produk_code": "JPBMMM",
             "harga_panel": "1000.00",
-            "harga_bayar": 8500,
-            "deskripsi": "BUTUH PULSA\/E-Wallet 8500\r\nMASA AKTIF 3 HARI \r\nBISA GANDENG ADDON XTRA COMBO MINI",
+            "harga_bayar": 8800,
+            "deskripsi": "BUTUH PULSA\/E-Wallet 8800\r\nMASA AKTIF 3 HARI \r\nBISA GANDENG ADDON XTRA COMBO MINI",
             "status": "aktif"
         },
         {
@@ -596,10 +596,10 @@
             "status": "nonaktif"
         },
         {
-            "nama_produk": "Kuota Facebook 2 GB",
+            "nama_produk": "Kuota Facebook 4 GB",
             "kategori": "KUOTA HARIAN",
             "produk_code": "OQK9D4",
-            "harga_panel": "250.00",
+            "harga_panel": "0.00",
             "harga_bayar": 0,
             "deskripsi": "Tidak perlu Pulsa \/ E-Wallet",
             "status": "nonaktif"
@@ -650,13 +650,13 @@
             "status": "aktif"
         },
         {
-            "nama_produk": "MASA AKTIF 6 BULAN",
+            "nama_produk": "MASA AKTIF 1 TAHUN V2",
             "kategori": "MASA AKTIF",
             "produk_code": "F2MG3K",
-            "harga_panel": "5000.00",
+            "harga_panel": "2000.00",
             "harga_bayar": 0,
-            "deskripsi": "MASA AKTIF 6 BULAN LANGSUNG\r\nSETELAH SELESAI ISI LANGSUNG UNREG VIA DIAL PAKET GROSIRFLASH_BLOKCING",
-            "status": "nonaktif"
+            "deskripsi": "1 tahun",
+            "status": "aktif"
         },
         {
             "nama_produk": "YOUTUBE 1 GB \/ 1 HARI",
@@ -717,17 +717,17 @@
             "kategori": "AKRAB",
             "produk_code": "7NJUI4",
             "harga_panel": "100000.00",
-            "harga_bayar": 204000,
+            "harga_bayar": 800000,
             "deskripsi": "TEST",
-            "status": "aktif"
+            "status": "nonaktif"
         },
         {
-            "nama_produk": "ADDON VIU 2 GB",
-            "kategori": "XTRA COMBO PLUS",
+            "nama_produk": "(NEW) ADDON XCP FACEBOOK 20 GB",
+            "kategori": "(NEW) ADDON XCP",
             "produk_code": "KQOSYX",
-            "harga_panel": "250.00",
+            "harga_panel": "1500.00",
             "harga_bayar": 0,
-            "deskripsi": "ADDON VIU",
+            "deskripsi": "- Tidak dapat diakumulasi, jika kamu membelinya ulang maka kuota akan tereset ke 20GB lagi.\n- Hanya bisa di kartu XL Prabayar\/Prepaid.\n- Tidak memerlukan pulsa.\n- Jika tidak dapat dibeli, silakan coba secara berkala.\n- Jika tidak dapat dibeli, silakan coba secara berkala.",
             "status": "nonaktif"
         },
         {
@@ -749,21 +749,390 @@
             "status": "nonaktif"
         },
         {
-            "nama_produk": "Bonus Paket Akrab Reguler 1 GB",
-            "kategori": "BPA",
-            "produk_code": "BPA1GB",
-            "harga_panel": "500.00",
+            "nama_produk": "REGULER 2.8 GB",
+            "kategori": "REGULER HARIAN",
+            "produk_code": "4WYXSV",
+            "harga_panel": "900000.00",
             "harga_bayar": 0,
-            "deskripsi": "BISA AKUMULASI\r\nMASA AKTIF 1 BULAN\r\nTANPA PULSA DAN EWALLET",
+            "deskripsi": "REGULER 2.8 GB",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "COMBO 100 GB",
+            "kategori": "PAKET UNLI TURBO",
+            "produk_code": "NCRLYI",
+            "harga_panel": "2000.00",
+            "harga_bayar": 369000,
+            "deskripsi": "UNTUK GANDENGAN UNLIMITED TURBO SUPER, DLL\nYTTA\nTIDAK PERLU PULSA \nRELOAD MASA AKTIF 30 HARI",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "UNLI TURBO SUPER",
+            "kategori": "PAKET UNLI TURBO",
+            "produk_code": "XL3PLG",
+            "harga_panel": "500.00",
+            "harga_bayar": 125000,
+            "deskripsi": "UNLI TURBO SUPER\nPAYMENT ONLY PULSA AJA\nDOR INI DULU, ABAIKAN PESAN GAGAL ATAU SUKSESNYA\n\nSEHABIS SELESAI DOR INI\nLANJUT DOR YANG GANDENGAN COMBO 100 GB",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "UNLI TURBO SUPER (METHOD DANA)",
+            "kategori": "PAKET UNLI TURBO",
+            "produk_code": "XLALI5",
+            "harga_panel": "2000.00",
+            "harga_bayar": 0,
+            "deskripsi": "UNLI TURBO SUPER\nMETHOD DANA \nTUTORIAL SAMA DENGAN YANG DIATAS INI, CUMA INI REFUND DANA",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "UNLI TURBO VIDIO RP0",
+            "kategori": "PAKET UNLI TURBO",
+            "produk_code": "XLPEHF",
+            "harga_panel": "0.00",
+            "harga_bayar": 0,
+            "deskripsi": "aaa",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "MASA AKTIF 1 TAHUN",
+            "kategori": "MASA AKTIF",
+            "produk_code": "XLSXYT",
+            "harga_panel": "2000.00",
+            "harga_bayar": 0,
+            "deskripsi": "- Masa aktif selama 1 tahun (12 bulan).\n- Jangan kaget jika masa aktif kartu tidak langsung bertambah. Masa aktif akan diperpanjang setiap bulan, tidak langsung dapat 1 tahun (12 bulan). Pemicu perpanjangan masa aktif kartu nanti saat paket setahun perpanjangan Rp0 pada tanggal xx xx xxxx 00.00 WIB. Akan tambah 30 hari tiap bulannya.\n- Jangan masa tenggang\n- Tidak dapat diakumulasi.\n- Sisa pulsa boleh dalam posisi Rp0",
             "status": "aktif"
         },
         {
-            "nama_produk": "Bonus Paket Akrab WhatsApp 5 GB",
-            "kategori": "BPA",
-            "produk_code": "BPAWA5",
-            "harga_panel": "1000.00",
+            "nama_produk": "(NEW) ADDON XCP YOUTUBE 20 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XL8CGL",
+            "harga_panel": "1500.00",
             "harga_bayar": 0,
-            "deskripsi": "BISA AKUMULASI\r\nMASA AKTIF 1 BULAN\r\nTANPA PULSA DAN EWALLET",
+            "deskripsi": "- Tidak dapat diakumulasi, jika kamu membelinya ulang maka kuota akan tereset ke 20GB lagi.\n- Hanya bisa di kartu XL Prabayar\/Prepaid.\n- Tidak memerlukan pulsa.\n- Jika tidak dapat dibeli, silakan coba secara berkala.\n- Jika tidak dapat dibeli, silakan coba secara berkala.",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "(NEW) ADDON XCP TIKTOK 20 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XLSRSD",
+            "harga_panel": "1500.00",
+            "harga_bayar": 0,
+            "deskripsi": "- Tidak dapat diakumulasi, jika kamu membelinya ulang maka kuota akan tereset ke 20GB lagi.\n- Hanya bisa di kartu XL Prabayar\/Prepaid.\n- Tidak memerlukan pulsa.\n- Jika tidak dapat dibeli, silakan coba secara berkala.\n- Jika tidak dapat dibeli, silakan coba secara berkala.",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "(NEW) ADDON XCP WHATSAPP 20 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XLQMN9",
+            "harga_panel": "1500.00",
+            "harga_bayar": 0,
+            "deskripsi": "- Tidak dapat diakumulasi, jika kamu membelinya ulang maka kuota akan tereset ke 20GB lagi.\n- Hanya bisa di kartu XL Prabayar\/Prepaid.\n- Tidak memerlukan pulsa.\n- Jika tidak dapat dibeli, silakan coba secara berkala.\n- Jika tidak dapat dibeli, silakan coba secara berkala.",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "(NEW) ADDON XCP INSTAGRAM 20 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XLNLIE",
+            "harga_panel": "1500.00",
+            "harga_bayar": 0,
+            "deskripsi": "- Tidak dapat diakumulasi, jika kamu membelinya ulang maka kuota akan tereset ke 20GB lagi.\n- Hanya bisa di kartu XL Prabayar\/Prepaid.\n- Tidak memerlukan pulsa.\n- Jika tidak dapat dibeli, silakan coba secara berkala.\n- Jika tidak dapat dibeli, silakan coba secara berkala.",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "UNLI TURBO PREMIUM",
+            "kategori": "UNLI TURBO",
+            "produk_code": "XL10GT",
+            "harga_panel": "500.00",
+            "harga_bayar": 165000,
+            "deskripsi": "UNLI TURBO PREMIUM\nPAYMENT ONLY PULSA AJA\nDOR INI DULU, ABAIKAN PESAN GAGAL ATAU SUKSESNYA\n\nSEHABIS SELESAI DOR INI\nLANJUT DOR YANG GANDENGAN COMBO SPESIAL 8 GB DI PANEL",
+            "status": "nonaktif"
+        },
+        {
+            "nama_produk": "Tiktok",
+            "kategori": "XUTS",
+            "produk_code": "XLQSBF",
+            "harga_panel": "0.00",
+            "harga_bayar": 25000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Netflix",
+            "kategori": "XUTS",
+            "produk_code": "XLR6NO",
+            "harga_panel": "0.00",
+            "harga_bayar": 25000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Viu",
+            "kategori": "XUTS",
+            "produk_code": "XL7UIF",
+            "harga_panel": "0.00",
+            "harga_bayar": 25000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Joox",
+            "kategori": "XUTS",
+            "produk_code": "XLXRBO",
+            "harga_panel": "0.00",
+            "harga_bayar": 10000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Premium",
+            "kategori": "XUTS",
+            "produk_code": "XL700K",
+            "harga_panel": "0.00",
+            "harga_bayar": 50000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Super",
+            "kategori": "XUTS",
+            "produk_code": "XLQLJY",
+            "harga_panel": "0.00",
+            "harga_bayar": 30000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Standard",
+            "kategori": "XUTS",
+            "produk_code": "XLJG8Y",
+            "harga_panel": "0.00",
+            "harga_bayar": 20000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Basic",
+            "kategori": "XUTS",
+            "produk_code": "XLJWUP",
+            "harga_panel": "0.00",
+            "harga_bayar": 10000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Combo Spesial 8 GB",
+            "kategori": "XUTS",
+            "produk_code": "XLUNUK",
+            "harga_panel": "2000.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000\n\nBUAT GANDENGAN UNLI TURBO",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "1GB + 1GB",
+            "kategori": "XUTS",
+            "produk_code": "XLBKCY",
+            "harga_panel": "2000.00",
+            "harga_bayar": 12500,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 12.500\n\nBUAT GANDENGAN UNLI TURBO SUPER",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "YouTube",
+            "kategori": "XUTS",
+            "produk_code": "XL1FUN",
+            "harga_panel": "0.00",
+            "harga_bayar": 25000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Iflix",
+            "kategori": "XUTS",
+            "produk_code": "XL9FJU",
+            "harga_panel": "0.00",
+            "harga_bayar": 25000,
+            "deskripsi": "Addon tanpa pulsa\nUntuk gandengan Combo Spesial\nUsahakan bersih dari xtra combo apapun sebelum isi paket ini\n\nPastikan status isinya failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Combo Spesial 8 GB",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLOGTJ",
+            "harga_panel": "2000.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 25.000\n\nBUAT GANDENGAN UNLI TURBO",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "1GB + 1GB",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLNDAW",
+            "harga_panel": "2000.00",
+            "harga_bayar": 12500,
+            "deskripsi": "menggunakan pulsa atau ewallet Rp 12.500\n\nBUAT GANDENGAN UNLI TURBO SUPER",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Basic",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLLRYI",
+            "harga_panel": "0.00",
+            "harga_bayar": 10000,
+            "deskripsi": "menggunakan ewallet Rp 10.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Standard",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLVUJ3",
+            "harga_panel": "0.00",
+            "harga_bayar": 20000,
+            "deskripsi": "menggunakan ewallet Rp 20.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Super",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLREIX",
+            "harga_panel": "0.00",
+            "harga_bayar": 30000,
+            "deskripsi": "menggunakan ewallet Rp 30.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Premium",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLXFMG",
+            "harga_panel": "0.00",
+            "harga_bayar": 50000,
+            "deskripsi": "menggunakan ewallet Rp 50.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "VIU",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLM0GU",
+            "harga_panel": "0.00",
+            "harga_bayar": 25000,
+            "deskripsi": "Menggunkan ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Netflix",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLBDA3",
+            "harga_panel": "0.00",
+            "harga_bayar": 25000,
+            "deskripsi": "Menggunakan ewalet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Joox",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLBLK4",
+            "harga_panel": "0.00",
+            "harga_bayar": 10000,
+            "deskripsi": "menggunakan ewallet Rp 10.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Tiktok",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLEWLT",
+            "harga_panel": "0.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunakan ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Iflix",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLWNQO",
+            "harga_panel": "0.00",
+            "harga_bayar": 25000,
+            "deskripsi": "menggunkan ewalet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Youtube",
+            "kategori": "XUTS WALLET",
+            "produk_code": "XLUZAC",
+            "harga_panel": "0.00",
+            "harga_bayar": 25005,
+            "deskripsi": "menggunakan ewallet Rp 25.000",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "GAMER 15 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XL36XE",
+            "harga_panel": "0.00",
+            "harga_bayar": 7500,
+            "deskripsi": "status failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Social Media 15 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XLVBKJ",
+            "harga_panel": "0.00",
+            "harga_bayar": 7500,
+            "deskripsi": "status failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Streaming 15 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XLV3HS",
+            "harga_panel": "0.00",
+            "harga_bayar": 7500,
+            "deskripsi": "status failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Whatsap 15 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XL6DA2",
+            "harga_panel": "0.00",
+            "harga_bayar": 5000,
+            "deskripsi": "status failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Instagram 15 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XLX589",
+            "harga_panel": "0.00",
+            "harga_bayar": 5000,
+            "deskripsi": "status failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Facebook 15 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XLLTUP",
+            "harga_panel": "0.00",
+            "harga_bayar": 5000,
+            "deskripsi": "status failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Youtube 15 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XLYZ67",
+            "harga_panel": "0.00",
+            "harga_bayar": 5000,
+            "deskripsi": "status failed 422",
+            "status": "aktif"
+        },
+        {
+            "nama_produk": "Tiktok 15 GB",
+            "kategori": "(NEW) ADDON XCP",
+            "produk_code": "XL9ZIF",
+            "harga_panel": "0.00",
+            "harga_bayar": 5000,
+            "deskripsi": "status failed 422",
             "status": "aktif"
         }
     ]
